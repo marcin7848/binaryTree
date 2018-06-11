@@ -1,0 +1,71 @@
+
+.main {
+    position: absolute;
+    left: 40%;
+    font-size: x-large;
+}
+
+.admin
+{
+    float:left;
+}
+
+.movenode{
+    position:relative;
+    flex: 1;
+    font-size: x-large;
+}
+.hide{
+    display:none;
+}
+
+.par{
+    display: flex;
+    margin-left:-40px;
+}
+
+.plus{
+    width: 40px;
+}
+
+.deletediv{
+    height:40px;
+    line-height:40px;
+    background-color: #EEEEEE;
+    width: 225px;
+    line-width:225px;
+    font-size: large;
+}
+
+#deletespan {
+    display:block;
+    float:left;
+    width:20px;
+    height:40px;
+    font-size: large;
+}
+
+.sortdiv{
+    height:40px;
+    line-height:40px;
+    background-color: #EEEEEE;
+    width: 225px;
+    line-width:225px;
+    font-size: large;
+}
+
+#sortspan {
+    display:block;
+    float:left;
+    width:20px;
+    height:40px;
+    font-size: large;
+}
+
+.moveadd{
+    position:relative;
+}
+
+.editshow{
+    display: none;
+}
